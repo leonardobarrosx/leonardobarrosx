@@ -25,14 +25,4 @@
 <p>Feel free to reach out if you'd like to collaborate on a project, or just want to chat about tech and design!</p>
 
 <!-- Pixel Art Animation Example -->
-<div style="width: 100px; height: 100px; background: #000; position: relative; animation: pixelAnimation 1s infinite;">
-  <div style="width: 20px; height: 20px; background: #fff; position: absolute; top: 40px; left: 40px;"></div>
-</div>
-
-<style>
-@keyframes pixelAnimation {
-  0% { background: #000; }
-  50% { background: #555; }
-  100% { background: #000; }
-}
-</style>
+<iframe src="https://giphy.com/embed/3dhmyq6EKw2x7eFt4X" width="361" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3dhmyq6EKw2x7eFt4X"></a></p>
