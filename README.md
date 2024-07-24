@@ -25,4 +25,4 @@
 <p>Feel free to reach out if you'd like to collaborate on a project, or just want to chat about tech and design!</p>
 
 <!-- Pixel Art Animation Example -->
-<iframe src="https://giphy.com/embed/3dhmyq6EKw2x7eFt4X" width="361" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3dhmyq6EKw2x7eFt4X"></a></p>
+<p><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJpdTN4ZDc4NWZoNmFkcHg2Zm03enR2cW80NHk0N3E4MW8wc3h0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3dhmyq6EKw2x7eFt4X/giphy.webp" alt="Pixel Art Animation"></p>
