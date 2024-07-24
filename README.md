@@ -7,9 +7,9 @@
 <h3>💻 Technologies I Work With:</h3>
 
 <ul>
-  <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <strong>React</strong>: Building dynamic and responsive web applications</li>
-  <li><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> <strong>Tailwind CSS</strong>: Crafting sleek and modern UI designs</li>
-  <li><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> <strong>Flutter</strong>: Developing cross-platform mobile apps with stunning UI</li>
+  <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">: Building dynamic and responsive web applications</li>
+  <li><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> Crafting sleek and modern UI designs</li>
+  <li><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"> Developing cross-platform mobile apps with stunning UI</li>
 </ul>
 
 <h3>🎨 Designer & Visual Artist:</h3>
