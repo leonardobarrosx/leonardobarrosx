@@ -20,9 +20,5 @@
 
 <hr>
 
-<h3>📫 Let's Connect:</h3>
-
-<p>Feel free to reach out if you'd like to collaborate on a project, or just want to chat about tech and design!</p>
-
 <!-- Pixel Art Animation Example -->
 <p><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFxcDd2MnE0eXE2bGtidXN5Znhsa3B5aDA1YmtyZHl5dm11aGhjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BfhdxGOr1g5HSKr5o/giphy.webp" alt="Pixel Art Animation"></p>
