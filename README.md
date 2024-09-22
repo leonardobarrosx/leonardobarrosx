@@ -1,6 +1,6 @@
 <h2>Hi there! 👋</h2>
 
-<p>I'm a passionate <strong>Front-End Developer</strong> with expertise in <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>Flutter</strong>. I love creating intuitive and beautiful user interfaces that provide a seamless user experience. With a strong background in design</strong> and <strong>visual arts</strong>, I bring a unique perspective to every project, blending creativity with technical skill. I occasionally work on <strong>Python</strong>strong> projects for automation, leveraging my skills to streamline workflows and optimize processes.</p>
+<p>I'm a passionate <strong>Front-End Developer</strong> with expertise in <strong>React</strong>, <strong>Tailwind CSS</strong>, and <strong>Flutter</strong>. I love creating intuitive and beautiful user interfaces that provide a seamless user experience. With a strong background in design</strong> and <strong>visual arts</strong>, I bring a unique perspective to every project, blending creativity with technical skill. I occasionally work on <strong>Python</strong> projects for automation, leveraging my skills to streamline workflows and optimize processes.</p>
 
 <hr>
 
