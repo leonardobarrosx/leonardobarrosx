@@ -20,6 +20,3 @@
 <p>I combine my technical skills with my artistic background to deliver visually appealing and user-friendly designs.</p>
 
 <hr>
-
-<!-- Pixel Art Animation Example -->
-<p><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFxcDd2MnE0eXE2bGtidXN5Znhsa3B5aDA1YmtyZHl5dm11aGhjbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BfhdxGOr1g5HSKr5o/giphy.webp" alt="Pixel Art Animation"></p>
