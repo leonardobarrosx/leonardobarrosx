@@ -6,12 +6,6 @@ Based in João Pessoa, Brazil. I build software, work with data and keep systems
 
 [LinkedIn](https://www.linkedin.com/in/leonardobarrosx) · [Portfolio](https://github.com/leonardobarrosx/leonardobarros-portfolio) · xleonardobarros@gmail.com
 
-## About
-
-Ten years in tech, most of it wearing more than one hat. Freelance full-stack and mobile developer since 2016, IT analyst at a wholesale distributor and at a dental clinic network, and today a planning and data intelligence analyst at AeC, where I automate and validate the reporting behind a large contact-center operation.
-
-I got into all of this through games. I learned English as a kid translating patch notes for a blog, then taught myself to program by building tools for the games I played and, eventually, my own online RPG. The design and illustration side comes from the same place. It still shows: I care about how things look and how they feel to use, not just whether they work.
-
 ## What I do
 
 **Build.** Web (React, TypeScript, Angular, Vue), mobile (Flutter), back-ends (Node.js, Python/Django, Go, PHP/Laravel, C#/.NET), REST APIs and third-party integrations.
