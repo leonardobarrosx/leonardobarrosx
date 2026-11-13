@@ -1,40 +1,33 @@
-# Hi, I'm Leonardo 👋
+# Leonardo Barros
 
-**Full-Stack & Mobile Developer** | React • Flutter • TypeScript • Node.js • Python • Go • C# | UI/UX Design
+**Software Engineer · Full stack.** React + TypeScript on the front end; Go and Java (Spring Boot) on the back end.
 
-Based in João Pessoa, Brazil. I build software, work with data and keep systems running, and I'm usually the person who ends up doing all three on the same project.
+I build the whole path of a feature: the interface, the API behind it, the database and the pipeline that ships it. João Pessoa, Brazil (UTC−3) · Portuguese native, English C2.
 
-[LinkedIn](https://www.linkedin.com/in/leonardobarrosx) · [Portfolio](https://github.com/leonardobarrosx/leonardobarros-portfolio) · xleonardobarros@gmail.com
-
-## What I do
-
-**Build.** Web (React, TypeScript, Angular, Vue), mobile (Flutter), back-ends (Node.js, Python/Django, Go, PHP/Laravel, C#/.NET), REST APIs and third-party integrations.
-
-**Data.** SQL (Oracle, PostgreSQL), dashboards and reporting in Python, ETL and validation routines, and Excel/Sheets modeling when that's the right tool for the job.
-
-**Run.** On-site and remote IT support, asset management, CRM migrations, automation with n8n, and the documentation that keeps all of it sane.
-
-**Design.** Figma and the Adobe suite. Design systems, branding, illustration and motion, with accessibility from the start.
+[Portfolio](https://leonardobarros.vercel.app) · [LinkedIn](https://www.linkedin.com/in/leonardobarrosx) · xleonardobarros@gmail.com
 
 ## Stack
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
+- **Languages:** TypeScript, Go, Java, Python, SQL
+- **Front end:** React, Vite + SWC, Tailwind CSS, TanStack Query
+- **Back end & data:** Spring Boot, Apache Camel, Kafka, Go (Gin), REST / OpenAPI, JWT / OAuth 2.0, PostgreSQL, Oracle, Redis
+- **Delivery:** Docker, Linux, GitHub Actions, Playwright, Vitest / Jest, JUnit 5 + Testcontainers
+
+## Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Motor de Transferências](https://github.com/leonardobarrosx/motor-transferencias) | Study banking core with Pix: ACID, idempotent transfers on a double-entry ledger, and Pix to other banks as a saga over Kafka and Apache Camel. 105 tests against real PostgreSQL and Kafka. | Java 21 · Spring Boot · Kafka · Camel · React |
+| [Argus](https://github.com/leonardobarrosx/argus-project) | Multi-tenant SaaS for optical stores. PostgreSQL Row Level Security isolates each tenant even if a query forgets the filter; integration tests run against a real database. | Go · React · TypeScript · PostgreSQL |
+| [Meu Chamado](https://meuchamado.vercel.app) | Multi-tenant helpdesk for an IT team serving 56 municipal health units, validated with the client before homologation. *Private repo.* | React · TypeScript · Go · PostgreSQL |
+| [Vesta](https://leonardobarros.vercel.app/#work/vesta) | Restaurant platform: tables, orders, kitchen display, cashier and inventory in one flow, with real-time updates over SSE. *Private repo.* | Go · React · TypeScript · Flutter |
+| [Ninho](https://github.com/leonardobarrosx/ninho) | Family finance app published for Android and web: a Flutter client over a Go API on Supabase. | Flutter · Go · Supabase |
+| [Soluna](https://github.com/leonardobarrosx/soluna) | 2D online RPG engine with an authoritative UDP server at 20 Hz and in-game editors validated by the server. | C# · .NET · MonoGame |
+
+The [portfolio](https://github.com/leonardobarrosx/leonardobarros-portfolio) itself is Vite + React + TypeScript, in seven languages, with AA contrast and reduced-motion support.
 
 ## Currently
 
-- Open to full-time roles in development, data or IT operations, remote or hybrid. Freelance too.
-- English C2 (EF SET) · Cisco Cyber Threat Management · Google Play Store Listing
+- Senior Planning & Data Intelligence Analyst at AeC: I audit the automations behind the planning reports, validating queries, API responses and calculation rules.
+- Freelance full-stack development since 2016.
+- Looking for a full-time software engineering role (full stack, front end or back end), remote or hybrid.
