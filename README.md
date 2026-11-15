@@ -1,40 +1,73 @@
-# Hi, I'm Leonardo 👋
+<a href="https://leonardobarros.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="Leonardo Barros — Software Engineer, full stack" src="assets/banner-light.svg" width="100%">
+  </picture>
+</a>
 
-**Full-Stack & Mobile Developer** | React • Flutter • TypeScript • Node.js • Python • Go • C# | UI/UX Design
-
-Based in João Pessoa, Brazil. I build software, work with data and keep systems running, and I'm usually the person who ends up doing all three on the same project.
-
-[LinkedIn](https://www.linkedin.com/in/leonardobarrosx) · [Portfolio](https://github.com/leonardobarrosx/leonardobarros-portfolio) · xleonardobarros@gmail.com
-
-## What I do
-
-**Build.** Web (React, TypeScript, Angular, Vue), mobile (Flutter), back-ends (Node.js, Python/Django, Go, PHP/Laravel, C#/.NET), REST APIs and third-party integrations.
-
-**Data.** SQL (Oracle, PostgreSQL), dashboards and reporting in Python, ETL and validation routines, and Excel/Sheets modeling when that's the right tool for the job.
-
-**Run.** On-site and remote IT support, asset management, CRM migrations, automation with n8n, and the documentation that keeps all of it sane.
-
-**Design.** Figma and the Adobe suite. Design systems, branding, illustration and motion, with accessibility from the start.
-
-## Stack
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<p align="center">
+  <a href="https://leonardobarros.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-e3301c?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/leonardobarrosx"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-141110?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:xleonardobarros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-141110?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## Currently
+I build the whole path of a feature: the interface, the API behind it, the database and the pipeline that ships it. React + TypeScript on the front end, Go and Java (Spring Boot) on the back end. Based in João Pessoa, Brazil (UTC−3) · Portuguese native, English C2.
 
-- Open to full-time roles in development, data or IT operations, remote or hybrid. Freelance too.
-- English C2 (EF SET) · Cisco Cyber Threat Management · Google Play Store Listing
+<p align="center">
+  <img alt="TypeScript, React, Vite, Tailwind, Go, Java, Spring, Python, PostgreSQL, Redis, Kafka, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,go,java,spring,python,postgres,redis,kafka,docker,githubactions&perline=13">
+</p>
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/leonardobarrosx/motor-transferencias"><img src="assets/projects/motor.webp" alt="Motor de Transferências: Pix home screen"></a>
+      <h3><a href="https://github.com/leonardobarrosx/motor-transferencias">Motor de Transferências</a></h3>
+      Study banking core with Pix: ACID, idempotent transfers on a double-entry ledger, and Pix to other banks as a saga over Kafka and Apache Camel. 105 tests against real PostgreSQL and Kafka.
+      <br><br><sub><code>Java 21</code> <code>Spring Boot</code> <code>Kafka</code> <code>Apache Camel</code> <code>React</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/leonardobarrosx/argus-project"><img src="assets/projects/argus.webp" alt="Argus: optical store dashboard"></a>
+      <h3><a href="https://github.com/leonardobarrosx/argus-project">Argus</a></h3>
+      Multi-tenant SaaS for optical stores. PostgreSQL Row Level Security isolates each tenant even if a query forgets the filter; integration tests run against a real database.
+      <br><br><sub><code>Go</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://meuchamado.vercel.app"><img src="assets/projects/meuchamado.webp" alt="Meu Chamado: helpdesk dashboard"></a>
+      <h3><a href="https://meuchamado.vercel.app">Meu Chamado</a> <sub>· private repo</sub></h3>
+      Multi-tenant helpdesk for an IT team serving 56 municipal health units, validated with the client before homologation.
+      <br><br><sub><code>React</code> <code>TypeScript</code> <code>Go</code> <code>PostgreSQL</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://leonardobarros.vercel.app/#work/vesta"><img src="assets/projects/vesta.webp" alt="Vesta: kitchen display"></a>
+      <h3><a href="https://leonardobarros.vercel.app/#work/vesta">Vesta</a> <sub>· private repo</sub></h3>
+      Restaurant platform: tables, orders, kitchen display, cashier and inventory in one flow, with real-time updates over SSE.
+      <br><br><sub><code>Go</code> <code>React</code> <code>TypeScript</code> <code>Flutter</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/leonardobarrosx/ninho"><img src="assets/projects/ninho.webp" alt="Ninho: family finance overview"></a>
+      <h3><a href="https://github.com/leonardobarrosx/ninho">Ninho</a></h3>
+      Family finance app published for Android and web: a Flutter client over a Go API on Supabase.
+      <br><br><sub><code>Flutter</code> <code>Go</code> <code>Supabase</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/leonardobarrosx/soluna"><img src="assets/projects/soluna.webp" alt="Soluna: in-game screenshot"></a>
+      <h3><a href="https://github.com/leonardobarrosx/soluna">Soluna</a></h3>
+      2D online RPG engine with an authoritative UDP server at 20 Hz and in-game editors validated by the server.
+      <br><br><sub><code>C#</code> <code>.NET</code> <code>MonoGame</code></sub>
+    </td>
+  </tr>
+</table>
+
+<sub>This profile's portfolio is <a href="https://github.com/leonardobarrosx/leonardobarros-portfolio">open source</a> too: Vite + React + TypeScript, seven languages, AA contrast and reduced-motion support.</sub>
+
+## Now
+
+- **Senior Planning & Data Intelligence Analyst at AeC.** I audit the automations behind the planning reports: queries, API responses and calculation rules.
+- **Freelance full-stack development** since 2016.
+- **Looking for** a full-time software engineering role (full stack, front end or back end), remote or hybrid.
