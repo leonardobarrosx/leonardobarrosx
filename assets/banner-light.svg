@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Leonardo Barros — Software Engineer / Full Stack</title>
+<desc id="desc">Editorial profile banner in light theme, inspired by the Leonardo Barros portfolio.</desc>
+<rect width="1200" height="320" fill="#efe9df"/>
+<rect width="10" height="320" fill="#e3301c"/>
+<path d="M42 72H1160" stroke="#cabfb2" stroke-width="1"/>
+<text x="45" y="46" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3.6" fill="#6f655c">LEONARDO BARROS / PORTFOLIO</text>
+<text x="45" y="183" font-family="Impact, 'Arial Narrow', Arial, sans-serif" font-size="120" font-weight="900" letter-spacing="-2.5" fill="#141110">LEONARDO</text>
+<text x="45" y="292" font-family="Impact, 'Arial Narrow', Arial, sans-serif" font-size="120" font-weight="900" letter-spacing="-2.5" fill="#141110">BARROS</text>
+<path d="M818 101V280" stroke="#cabfb2" stroke-width="2"/>
+<text x="851" y="128" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.6" fill="#e3301c">SOFTWARE ENGINEER</text>
+<text x="851" y="165" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" fill="#141110">FULL STACK</text>
+<text x="851" y="205" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#6f655c">REACT / TYPESCRIPT</text>
+<text x="851" y="229" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#6f655c">GO / JAVA / SPRING</text>
+<path d="M851 253H1133" stroke="#e3301c" stroke-width="3"/>
+<text x="851" y="278" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.4" fill="#6f655c">JOÃO PESSOA · BRAZIL</text>
+</svg>
