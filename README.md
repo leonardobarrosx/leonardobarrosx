@@ -6,15 +6,16 @@
 </a>
 
 <p align="center">
-  <a href="https://leonardobarros.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-e3301c?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/leonardobarrosx"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-141110?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:xleonardobarros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-141110?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leonardobarros.vercel.app"><img alt="Portfolio" src="assets/badges/portfolio.svg"></a>
+  <a href="https://www.linkedin.com/in/leonardobarrosx"><img alt="LinkedIn" src="assets/badges/linkedin.svg"></a>
+  <a href="mailto:xleonardobarros@gmail.com"><img alt="Email" src="assets/badges/email.svg"></a>
 </p>
 
 I build the whole path of a feature: the interface, the API behind it, the database and the pipeline that ships it. React + TypeScript on the front end, Go and Java (Spring Boot) on the back end. Based in João Pessoa, Brazil (UTC−3) · Portuguese native, English C2.
 
 <p align="center">
-  <img alt="TypeScript, React, Vite, Tailwind, Go, Java, Spring, Python, PostgreSQL, Redis, Kafka, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,go,java,spring,python,postgres,redis,kafka,docker,githubactions&perline=13">
+  <code>TypeScript</code> <code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Go</code> <code>Java</code> <code>Spring Boot</code><br>
+  <code>Python</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kafka</code> <code>Docker</code> <code>GitHub Actions</code>
 </p>
 
 ## Selected work
@@ -44,8 +45,8 @@ I build the whole path of a feature: the interface, the API behind it, the datab
     <td width="50%" valign="top">
       <a href="https://leonardobarros.vercel.app/#work/vesta"><img src="https://raw.githubusercontent.com/leonardobarrosx/leonardobarros-portfolio/main/src/assets/cases/vesta/cover.webp" width="100%" alt="Vesta: kitchen display"></a>
       <h3><a href="https://leonardobarros.vercel.app/#work/vesta">Vesta</a> <sub>· private repo</sub></h3>
-      Restaurant platform: tables, orders, kitchen display, cashier and inventory in one flow, with real-time updates over SSE.
-      <br><br><sub><code>Go</code> <code>React</code> <code>TypeScript</code> <code>Flutter</code></sub>
+      Restaurant SaaS with five interfaces: management, waiter PWA, kitchen KDS, landing page and superadmin. Go/Gin and PostgreSQL power tenant-isolated operations, with real-time updates over SSE.
+      <br><br><sub><code>Go</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code></sub>
     </td>
   </tr>
   <tr>

@@ -1,17 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-<title id="title">Leonardo Barros — Software Engineer / Full Stack</title>
-<desc id="desc">Editorial profile banner in light theme, inspired by the Leonardo Barros portfolio.</desc>
-<rect width="1200" height="320" fill="#efe9df"/>
-<rect width="10" height="320" fill="#e3301c"/>
-<path d="M42 72H1160" stroke="#cabfb2" stroke-width="1"/>
-<text x="45" y="46" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3.6" fill="#6f655c">LEONARDO BARROS / PORTFOLIO</text>
-<text x="45" y="183" font-family="Impact, 'Arial Narrow', Arial, sans-serif" font-size="120" font-weight="900" letter-spacing="-2.5" fill="#141110">LEONARDO</text>
-<text x="45" y="292" font-family="Impact, 'Arial Narrow', Arial, sans-serif" font-size="120" font-weight="900" letter-spacing="-2.5" fill="#141110">BARROS</text>
-<path d="M818 101V280" stroke="#cabfb2" stroke-width="2"/>
-<text x="851" y="128" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.6" fill="#e3301c">SOFTWARE ENGINEER</text>
-<text x="851" y="165" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="800" fill="#141110">FULL STACK</text>
-<text x="851" y="205" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#6f655c">REACT / TYPESCRIPT</text>
-<text x="851" y="229" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" fill="#6f655c">GO / JAVA / SPRING</text>
-<path d="M851 253H1133" stroke="#e3301c" stroke-width="3"/>
-<text x="851" y="278" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.4" fill="#6f655c">JOÃO PESSOA · BRAZIL</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="486" viewBox="0 0 1560 486" role="img" aria-labelledby="title desc">
+<title id="title">Leonardo Barros — Software Engineer, Full Stack</title>
+<desc id="desc">Banner editorial com tipografia condensada, detalhes vermelhos e caracteres japoneses.</desc>
+<rect width="1560" height="486" fill="#efe9df"/>
+<rect x="1416" width="144" height="486" fill="#e3301c"/>
+<text x="80" y="87" font-family="Consolas, Menlo, monospace" font-weight="700" font-size="21" letter-spacing="2.3" fill="#e3301c">VOL. 01 — 2026</text>
+<text x="1368" y="87" text-anchor="end" font-family="Consolas, Menlo, monospace" font-weight="700" font-size="21" letter-spacing="1.5" fill="#73685e">JOÃO PESSOA · BRASIL · UTC−3</text>
+<line x1="80" y1="111" x2="1370" y2="111" stroke="#42352c" stroke-width="3" />
+<text x="77" y="291" font-family="Impact, 'Arial Narrow', 'DejaVu Sans Condensed', sans-serif" font-stretch="condensed" font-weight="900" font-size="183" textLength="657" lengthAdjust="spacingAndGlyphs" fill="#141110">LEONARDO</text>
+<text x="743" y="291" font-family="Impact, 'Arial Narrow', 'DejaVu Sans Condensed', sans-serif" font-stretch="condensed" font-weight="900" font-size="183" textLength="565" lengthAdjust="spacingAndGlyphs" fill="#e3301c">BARROS</text>
+<text x="80" y="365" font-family="Georgia, 'Times New Roman', serif" font-size="49" font-style="italic" fill="#141110">Software Engineer, full stack.</text>
+<line x1="80" y1="400" x2="1370" y2="400" stroke="#e3301c" stroke-width="3"/>
+<text x="80" y="447" font-family="Consolas, Menlo, monospace" font-size="20" font-weight="700" letter-spacing="2.2" fill="#42352c">REACT  ·  TYPESCRIPT  ·  GO  ·  JAVA / SPRING BOOT  ·  PYTHON</text>
+<text x="1370" y="447" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="20" font-weight="700" letter-spacing="2.2" fill="#e3301c">PORTFOLIO</text>
+<g transform="translate(1488 36)"><text x="0" y="0" font-family="'Noto Sans CJK JP', 'Noto Sans JP', sans-serif" font-size="37" font-weight="700" letter-spacing="3" fill="#fff" writing-mode="vertical-rl" text-orientation="upright">ソフトウェアエンジニア</text></g>
 </svg>
