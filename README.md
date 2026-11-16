@@ -43,7 +43,7 @@ I build the whole path of a feature: the interface, the API behind it, the datab
       <br><br><sub><code>React</code> <code>TypeScript</code> <code>Go</code> <code>PostgreSQL</code></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://leonardobarros.vercel.app/#work/vesta"><img src="https://raw.githubusercontent.com/leonardobarrosx/leonardobarros-portfolio/main/src/assets/cases/vesta/cover.svg" width="100%" alt="Vesta: source-based visual recreation of current kitchen KDS, with sample data"></a>
+      <a href="https://leonardobarros.vercel.app/#work/vesta"><strong>VESTA — Restaurant Operations Platform</strong></a>
       <h3><a href="https://leonardobarros.vercel.app/#work/vesta">Vesta</a> <sub>· private repo</sub></h3>
       Restaurant SaaS with five interfaces: management, waiter PWA, kitchen KDS, landing page and superadmin. Go/Gin and PostgreSQL power tenant-isolated operations, with real-time updates over SSE.
       <br><br><sub><code>Go</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code></sub>
